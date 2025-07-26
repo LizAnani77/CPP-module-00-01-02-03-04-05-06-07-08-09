@@ -1,5 +1,5 @@
 # CPP-module-00-a-09
-# 📦 C++ Module 00
+# C++ Module 00
 
 ## 📚 Résumé
 Introduction à la syntaxe C++98, déclaration de classes simples, fonctions membres, gestion de la mémoire automatique.
@@ -21,7 +21,7 @@ Introduction à la syntaxe C++98, déclaration de classes simples, fonctions mem
 - Aucun `using namespace` autorisé
 - Pas d’allocation dynamique inutile
 
-# 📦 C++ Module 01
+# C++ Module 01
 
 ## 📚 Résumé
 Ce module explore les notions de référence, pointeurs, opérateurs de flux, manipulation de fichiers, et fonctions membres statiques.
@@ -43,7 +43,7 @@ Ce module explore les notions de référence, pointeurs, opérateurs de flux, ma
 - Aucun `using namespace` autorisé
 - Pas d’allocation mémoire dynamique inutile
 
-# 📦 C++ Module 02
+# C++ Module 02
 
 ## 📚 Résumé
 Encapsulation, héritage simple, polymorphisme de base et forme canonique.
@@ -63,7 +63,7 @@ Encapsulation, héritage simple, polymorphisme de base et forme canonique.
 ## ⚙️ Contraintes
 - Utiliser `-std=c++98` et respecter les bonnes pratiques d’allocation/désallocation
 
-# 📦 C++ Module 03
+# C++ Module 03
 
 ## 📚 Résumé
 Classes abstraites, héritage, et polymorphisme dynamique.
@@ -82,7 +82,7 @@ Classes abstraites, héritage, et polymorphisme dynamique.
 - Utiliser des pointeurs dynamiques
 - Pas de fuite mémoire : bien gérer le `delete`
 
-# 📦 C++ Module 04
+# C++ Module 04
 
 ## 📚 Résumé
 Surcharge d'opérateurs, exceptions, et gestion avancée de l’héritage.
@@ -102,7 +102,7 @@ Surcharge d'opérateurs, exceptions, et gestion avancée de l’héritage.
 - Exceptions obligatoires pour les cas d'erreurs
 - Respect de la forme canonique et des bonnes pratiques de copie
 
-# 📦 C++ Module 05
+# C++ Module 05
 
 ## 📚 Résumé
 Exceptions, hiérarchie de classes et signature de formulaires.
@@ -120,7 +120,7 @@ Exceptions, hiérarchie de classes et signature de formulaires.
 - Manipulation sûre via pointeurs et références
 - Gestion précise des exceptions (grade trop haut/bas)
 
-# 📦 C++ Module 06
+# C++ Module 06
 
 ## 📚 Résumé
 Conversions de types, sérialisation, et identification dynamique de types.
@@ -139,7 +139,7 @@ Conversions de types, sérialisation, et identification dynamique de types.
 - Aucune allocation dynamique abusive
 - Respect de la forme canonique
 
-# 📦 C++ Module 07
+# C++ Module 07
 
 ## 📚 Résumé
 Templates de fonctions et de classes, généricité.
@@ -157,7 +157,7 @@ Templates de fonctions et de classes, généricité.
 - Gérer les erreurs sur les indices hors limites
 - Ne jamais faire de copie non contrôlée
 
-# 📦 C++ Module 08
+# C++ Module 08
 
 ## 📚 Résumé
 Découverte de la STL (containers `vector`, `list`, `stack`) et algorithmes.
@@ -175,7 +175,7 @@ Découverte de la STL (containers `vector`, `list`, `stack`) et algorithmes.
 - Ne jamais provoquer d’accès hors limites
 - Utiliser des itérateurs partout où c’est pertinent
 
-# 📦 C++ Module 09
+# C++ Module 09
 
 ## 📚 Résumé
 Algorithmes pratiques utilisant la STL.
